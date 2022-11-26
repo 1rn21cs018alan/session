@@ -5,4 +5,7 @@ git commit -m "some message "// to commit
 git commit -a// tracks and commits all modified ot already added files
 git config --global user.name = "1rn21cs018alan"
 git config --global user.email =  "1rn21cs018alangeorgejimcy@gmail.com"
-
+git log // shows commit history
+git branch //branch operatioins
+git checkout -b "sdfr"//makes a branch sdfr
+git merge brassTrumpet//merges branch brassTrumpet 
